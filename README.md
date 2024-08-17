@@ -21,7 +21,7 @@
 <h2>How to Use</h2>
 <ol>
     <li>Clone the repository:</li>
-    <pre><code>git clone [repository link]</code></pre>
+    <pre><code>git clone https://github.com/zoecyber001/PRODIGY_CS_05</code></pre>
     <li>Navigate to the directory:</li>
     <pre><code>cd Network_Analyzer</code></pre>
     <li>Run the script:</li>
